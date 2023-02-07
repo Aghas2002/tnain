@@ -1,0 +1,31 @@
+/* --------------------------sikundamer-------------------- */
+
+body{
+    background-image: url(sand-timer-sand-dune-25329174.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+
+#sikundamer{
+    display: block
+}
+
+.container{
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.container .inner #timer{
+    font-size: 30px;
+   
+}
+
+
+/* -----------------Traffic Light----------------------------- */
+#color{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+} 
